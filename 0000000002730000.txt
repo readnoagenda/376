@@ -1,0 +1,11 @@
+x; Bell ring
+jd; What?
+ac; I don't know, more secure portals.
+jd; What do you need to secure portals for? ... I mean ..  Okay, the reason ... One of the things they want you to do is they want people to file electronically.
+ac; Yeah.
+jd; So that is important.
+ac; Well, you can already do that. That already works.
+jd; That already works, so you don't need to spend money on that. So what is the other thing? Secure what for what?
+ac; Well I am reading from the article here
+jd; If I wanted a copy I could get a form W-9 from the IRS - I would just download it. How secure does that need to be?
+ac; IRS does not have concrete plans that define what additional online service
