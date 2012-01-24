@@ -1,9 +1,7 @@
-dj; eight-hundred million dollars!
-ac; Now you're just going crazy. Three hundred and twenty million dollars to upgrade the IRS website
+ac; Three hundred and twenty million dollars to upgrade the IRS website
 dj; A website?! That ought to include building a new IRS building!
-ac; It's- here it is:
-"The IRS's three hundred and twenty million dollar website includes:
- - New more secure portals, so taxpayers can access more information
-dj; Like what?
+ac; Here it is:
+"The IRS's three hundred and twenty million dollar website includes: new more secure portals, so taxpayers can access more information
+jd; Like what?
 ac; I don't know, more secure portals.
-dj; What do you need secure portals for?
+jd; What do you need secure portals for?
