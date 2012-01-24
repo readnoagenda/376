@@ -8,4 +8,4 @@ ac; Well, you can already do that. That already works.
 jd; That already works, so you don't need to spend money on that. So what is the other thing? Secure what for what?
 ac; Well I am reading from the article here
 jd; If I wanted a copy I could get a form W-9 from the IRS - I would just download it. How secure does that need to be?
-ac; "IRS does not have concrete plans that define what additional online service"
+
