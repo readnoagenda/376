@@ -1,3 +1,5 @@
-ac;IRS does not have concrete plans of defining what additional online services the new web site will ultimately provide and how much the services will cost. To their credit, IRS officials have begun developing a road map. Ah, I bet they'll have a dashboard with attack vectors. What do ya think?
+ac;"IRS does not have concrete plans of defining what additional online services the new web site will ultimately provide and how much the services will cost. To their credit, IRS officials have begun developing a road map." Ah, I bet they'll have a dashboard with attack vectors. What do ya think?
 jd;Oh yeah, it'll be something corny. 
-ac;Just unbelievable. So, what they're saying is they receive.. people aren't using the web site, they use the phone system and that they hate that. So, apparently they answered over 22 million calls...
+ac;Just unbelievable. So, what they're saying is they receive.. people aren't using the web site, they use the phone system and that they hate that. So, apparently they answered over 22 million calls for the 2011 tax season at a cost of about $30 a call! It costs them $660 million, they say.
+WHAT??! Oh! And they are going to build an automated phone system as well which not included in the $320 million. They'll give more automated skip logic.. uh.. automated phone systems. Yeah. That's great.
+jd; Well as long as the oversight committees
