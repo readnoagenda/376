@@ -1,11 +1,10 @@
 c;In April, ABC will run a new miniseries, "Titanic",
-x;ding! (bell)
+x;[bell dings]
 c;marking the 100th anniversary of the sinking of the ship.
-x;ding! (bell)
-c;No clips yet but ET has learned that David Calder will be the captain. Linus Roache and Geraldine Somerville playing key passengers.
-x;ding! (bell)
+x;[bell dings]
+c;No clips yet, but ET has learned that David Calder will be the captain. Linus Roache and Geraldine Somerville playing key passengers.
+x;[bell dings]
 c;Could the Concordia tragedy come to the big screen? 
-x;ding! (bell)
+x;[bell dings four times]
 c;Matt Bellamy of the Hollywood Reporter says the rumblings have started.
-x;ding! (bell)
-c;[Bellamy] You have the villain in the captain. You have the spectacular crash here. You have the very life or death situation. This could 
+c;[Bellamy] You have the villain and the captain. You have a spectacular crash here. You have a very, very life-or-death situation.

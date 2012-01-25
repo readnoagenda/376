@@ -1,6 +1,6 @@
-c; You have a, you know, very, very life-or-death situation. This could be a Hollywood movie in a second.
+c; This could be a Hollywood movie in a second.
 
-sfx; [bell]
+x; [bell]
 
 c; CBS News correspondent Allen Pizzey at the site. I asked him about the growing dangers there.
 
@@ -10,10 +10,10 @@ c; This is like a scene from a movie, actually...
 
 ac; [inaudible] sharks.
 
-sfx; [two bells]
+x; [two bells]
 
 c; ...because behind me you can probably see the Costa Concordia laid over on its side. It's wedged on a rock...
 
 jd; That's good.
 
-ac; Aww, man, yeah. I told you these guys are brazen. Please don't pay attention to the real mob going on here, the real mafia, which are threatening to kill each other and
+ac; Aww, man, yeah. I told you these guys are brazen. Please don't pay attention to the real mob going on here, the real Mafia, which are threatening to kill each other and
