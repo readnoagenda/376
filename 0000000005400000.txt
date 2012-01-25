@@ -8,5 +8,5 @@ ac; I'll be there. I'll go to 'San Antone'!
 jd; San Antone.
 Sir Robert Goshgo in Sherwood Park, Alberta; $121.21 - which is a palindrome
 ac; A palindrome.
-jd; "In the morning John and Adam, I received my knight ring yesterday. Props to The Shill for his ingenious shipping method to get through the international mail system. Keep up the good work on The Best Podcast in the Universe.
+jd; "In the morning John and Adam, I received my knight ring yesterday. Props to The Shill for his ingenious shipping method to get through the international mail system. Keep up the good work on The Best Podcast in the Universe."
 
