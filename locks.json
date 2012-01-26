@@ -4,17 +4,9 @@
             "timestamp": 1327535737.593287, 
             "secret": "jdvxvvsCXanNuIWq"
         }, 
-        "6180000": {
-            "timestamp": 1327536170.789492, 
-            "secret": "VWsLPZEFfQullnxK"
-        }, 
         "5610000": {
             "timestamp": 1327535055.872981, 
             "secret": "HLiIPJsZUTIAtBOX"
-        }, 
-        "6210000": {
-            "timestamp": 1327536170.789492, 
-            "secret": "xxDxXiYNprwUiArn"
         }, 
         "5640000": {
             "timestamp": 1327535055.872981, 
@@ -37,10 +29,6 @@
         "5610000": {
             "timestamp": 1327535055.872981, 
             "secret": "jVHyTlTuSGlETwAm"
-        }, 
-        "6180000": {
-            "timestamp": 1327536170.789492, 
-            "secret": "BhWnJkYyoyJXPuZS"
         }
     }
 }
