@@ -1,5 +1,9 @@
 ac; Adam Curry
 jd; John C. Dvorak
+
 j; Jingle
-c; Clip
 x; SFX
+
+c; Clip
+cnc; Clip (Neil Cavuto)
+crp; Clip (Ron Paul)
