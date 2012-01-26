@@ -1,5 +1,5 @@
-c;there's a statue of the famed coach outside penn state's beaver stadium
-to say paterno was a beloved figure in state college is an understatement
-paterno's program always had a squeaky clean image, avoiding any major scandals that involved other schools
-but penn state was thrown into turmoil following the charges levied against sandusky in november of 2011
-upon his firing, students rallied outside of paterno's home
+c; There's a statue of the famed coach outside Penn State's Beaver Stadium.
+To say Paterno was a beloved figure in state college, is an understatement.
+Paterno's program always had a squeaky clean image, avoiding any major scandals that involved other schools,
+but Penn State was thrown into turmoil following the charges levied against Sandusky in November of 2011.
+Upon his firing, students rallied outside of Paterno's home.
