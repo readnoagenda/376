@@ -1,10 +1,11 @@
-ac;yep, but you also have to connect it somewhere else
-see, the fiber is just in the ground here, it's not connected to anything outside of the island
-jd;oh, there's no head end
-ac;no! there's no internet service provider
-jd;it's just fiber
-ac;yeah exactly.
+ac; Yep, but you also have to connect it somewhere else.
+See, the fiber is just in the ground here. 
+It's not connected to anything outside of the island.
+jd; Oh, there's no head end.
+ac; No! There's no internet service provider.
+jd; It's just fiber.
+ac; Yeah, exactly.
 -chuckle-
-jd;hey it takes a lot more than just dropping a bunch of fiber in the dirt and thinking that's gonna do something
-it's not magic
-ac;well yeah, that's the whole point, but luckily there's 600 government workers here to oversee the festivities and all is well
+jd; Hey it takes a lot more than just dropping a bunch of fiber in the dirt and thinking that's gonna do something.
+It's not magic.
+ac; Well yeah. That's the whole point, but luckily there's 600 government workers here to oversee the festivities and all is well.
