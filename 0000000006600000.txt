@@ -3,5 +3,4 @@ ac; While we weren't looking!
 c; [reporter]'.. and Egyptians have spoken as Islamist parties dominate Parliament with more than 70% of the seats.'
 jd; It's just that simple. 70% of the seats.
 ac; That's it? That's all the news we got?
-jd; Yeah, it's all we got.
-ac;Wait a minute? Isn't that a HUGE deal? Isn't this the whole point? Is that Egypt
+
